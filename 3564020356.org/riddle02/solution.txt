@@ -1,0 +1,61 @@
+1. There are 34 numbers.
+2. There are 17 pair numbers.
+
+01 10 A n p  
+02 11 l d i c
+03 09 i o t o
+04 12 c e s S
+05 08 e W s t
+06 13 i r a  
+07 14 n l s l
+08 05 W e t s
+09 15 o a o L
+10 07 n n   s
+11 16 d n c d
+12 02 e l S i
+13 04 r c   s
+14 03 l i l t
+15 17 a d L i
+16 06 n i d a
+17 01 d A i p
+
+01 69 i
+02 64 d
+03 4c L
+04 6c l
+05 20 
+06 53 S
+07 63 c
+08 20 
+09 6f o
+10 74 t
+11 73 s
+12 61 a
+13 73 s
+14 73 s
+15 74 t
+16 69 i
+17 70 p
+
+pass is LidlScott 
+pass it LidlScost
+pass is lidLScott
+
+pitssasto cS lLdi
+ coSt lsLsdistiap
+ coSt lsLsdistiap
+iSl td stpisasocL
+
+gP3RJF{k3vzVW
+textualadventures
+ndoeWrleannlcidiA
+
+delrWnneiAlcinoda
+delrW nne iAlcinoda
+alice in wonderland
+Alice in Wonderland
+delrwnneialcinoda
+delrw nn eialcinoda
+DELRW NN EIALCINODA
+
+10 11 09 12 08 13 14 05 15 07 16 02 04 03 17 06 01
