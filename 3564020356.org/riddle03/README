@@ -1,0 +1,78 @@
+Riddle 03: Easter eggs
+
+... what can I say? Fortunately, it's not me :)
+
+If you have solved last riddle, you've probably learned something about
+steganography: at least, you should know what it is and how it is generally
+used. +Fravia's pages are a good place to learn more on this topic and,
+speaking of this, you could go and give a look to his interesting riddle too.
+Anyway, steganography is not the only way to hide data... so let's talk about
+THIS riddle: the title is "Easter eggs", do you know what they are? 
+
+Often, programmers use to hide some secret functions inside their programs,
+most of which are unuseful messages, animations or videogames (who minds? 
+Hard disks are bigger and bigger now!). Well, these secret "features" are 
+called Easter eggs, and you can see them only executing some particular 
+actions in a predefined order. Creating them is not easy: see how this 
+Micro$oft programmer is trying to think about a new, more entertaining Easter
+Egg!
+
+The original photo of this poor M$ slave has been taken from an Easter egg,
+one of the most famous ones regarding Internet Explorer 5: since I've seen
+that many of you are using this browser, I've thought that playing with it
+for a short time (just the time to see how much junk you can find in this 
+overbloated app) would have been nice... Linux users, please do not write me
+telling you cannot solve this riddle because you don't want to install MSIE5:
+I've not asked you to do this, find another way to solve it and I promise 
+that one of the future riddles will be Linux related :)
+
+Well, if you want to see the Easter egg I've talked you about (the one I've
+taken the photo from) just search for "Internet Explorer" AND "easter egg".
+If you want to solve the riddle, instead, find a NEW easter egg: I will give
+you some information to start with, but you will have to go on alone. The
+tools you will need to perform this task are all downloadable from this
+level and the instructions I will give you are so detailed that I'm starting
+to think this riddle is going to bee TOO easy...
+
+
+
+FIRST STEP: "Don't look, see!"
+
+Internet Explorer calls a particular DLL whenever you type a wrong Internet
+address: see how silly is its way to hide this DLL's name (silly because it
+does not work!) and write it down. This is the file you will have to reverse.
+
+
+
+SECOND STEP: "Within the bowels of these elements..."
+
+Using the tools you like most, look inside the bowels of the file: it's a DLL
+but it does not contain just binary code; just looking at its dump (disasm is
+not needed!) you will find the sources of the html pages the dll shows you
+when an error occurs; also, you will find the strings you have to pass to the
+dll to show the different pages. Try to call them manually and enjoy the
+power of reversing :)
+
+
+
+THIRD STEP: "Much ado about nothing"
+
+Among the different HMTL sources you can find inside the dll, there's one
+that should attract your attention... At this point, you should already know
+which one: if you don't, just try all the documents that are present inside
+the dll and choose the one which does nothing :)
+
+
+
+FOURTH STEP: "Oh, God, where should I throw this software?"
+
+This document is particularly interesting: inside it you can find some crypted
+data which attracted the attention of Tom, a good friend of mine, who was the
+first to notice it and told me about it. Reverse this part of the DLL and
+find the meaning of those strings: I won't tell you how, there are many ways
+to do it and some of them are terribly easy. Also, since this code is part of
+an HTML document, find the way to make it work as it should (that is: make
+the page do something). If you have completed both these tasks, then you
+should know what title this page should have: throw away the last two chars
+from this string and... welcome to the third level ;)
+

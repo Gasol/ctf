@@ -1,0 +1,23 @@
+HITCON 2015 NANO GAME
+
+Nano$ [0] Morse
+Nano$ [1] Maze
+Nano$ [2] Calculator
+Nano$ enter your choice:
+
+User$ choice [1] Maze
+
+Nano$ activate Maze
+
+Nano$ I WANT TO PLAY A GAME !
+Nano$ now, you are in (0,0) of an unknown maze.
+Nano$ you must reach (14, 14) of this maze.
+Nano$ you have ten seconds to reach it.
+Nano$ the 'O' is where you are.
+Nano$ the '.' mark is road.
+Nano$ the '+' mark is wall.
+Nano$ send [w] to move up
+Nano$ send [d] to move right
+Nano$ send [s] to move down
+Nano$ send [a] to move left
+

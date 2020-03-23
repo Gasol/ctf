@@ -1,0 +1,19 @@
+GET /flag.zip HTTP/1.1
+Host: 192.168.4.10
+Range: bytes=1876-2344
+User-Agent: curl/7.44.0
+Accept: */*
+
+HTTP/1.1 206 Partial Content
+Date: Fri, 04 Sep 2015 10:41:43 GMT
+Server: Apache/2.4.10 (Debian)
+Last-Modified: Fri, 04 Sep 2015 10:28:37 GMT
+ETag: "ea1-51ee95cdf4143"
+Accept-Ranges: bytes
+Content-Length: 469
+Content-Range: bytes 1876-2344/3745
+Content-Type: application/zip
+
+½òZrÙÂ÷
+ä¼-¹OQî`3û$+aŒß°ëe²j3×®\OUü Ü›³Fõœ¢Ë¹ÆWxÅÊn¬#”'Ö[–´çØüø>÷ZvmÏšš0“×¯EŒ…<“ùv=4<b/fulò.î){}ßdµÅÚú¼˜ŽÚjØæ7€ÏŠ«ò|)·,fæ,	ós9ØÉÎ>˜³kt·åJZ\ÍyÕYšoÊ™—àŒVžäkÊód¯àé¯ÞÈ—í)£Þ€–d½4X“‹fÑÜ4Þç`4Æ}“dà9Á¸­úWµìâNH÷þ{8È>,¿~BÉÝ\Û9>ªØÙ¡Ê<Oj.¥ç£À¯ÒÕ¨æ„9krv-Žæp®¤-«Ù©ÌQ[Úèuñ—¤ñÑÐ2ù*{z™šFð5ÉhíX–Ù†LØí™ÄÇ	ßO_kã˜Þ}AÂÖøE®gÿÌ9©’ì¨À®‹˜§‘¶H«oYòY—Ê|w
+½;f·úAnñÜÐ*D¸ö¬=à1Ël?­ž¢ˆÛ¹Ù­¿<žï÷%šú{W*éÃ¡~›ä÷«§ŒNc¿Æ¿0™òÕ{T¯;.¾n?ßÊU¾¡8Ù^ð‡ÀMâ§Ùqn½æ5¶XkÚçH~Ã·7
